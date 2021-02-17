@@ -1,6 +1,6 @@
 version: "1"
 services:
-  - name: jbrs1:0.1.0
+  - name: app2:0.1.0
     description: my app description
     run: node /ops/index.js
     port: [ '8080:8080' ]
